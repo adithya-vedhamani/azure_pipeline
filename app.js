@@ -31,7 +31,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>Password Generator</h1>
+                <h1>Password Generator 2.0</h1>
                 <button onclick="generatePassword()">Generate Password</button>
                 <div id="password"></div>
             </div>
