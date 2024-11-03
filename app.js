@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Password Generator</title>
+            <title>Password Generator 2.0</title>
             <style>
                 body { font-family: Arial, sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
                 .container { text-align: center; }
